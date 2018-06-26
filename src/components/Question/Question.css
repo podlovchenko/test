@@ -1,0 +1,10 @@
+.Question {
+    margin: auto;
+    padding: 10px;
+    width: 480px;
+}
+
+.Question__answers {
+    margin: 20px;
+    text-align: left;
+}

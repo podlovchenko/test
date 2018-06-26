@@ -1,0 +1,11 @@
+.true {
+    background-color: green;
+}
+
+.false {
+    background-color: red;
+}
+
+.type {
+    margin: 20px;
+}
